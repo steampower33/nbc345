@@ -20,10 +20,114 @@
   <component name="ChangeListManager">
     <list default="true" id="93c482e0-256e-4606-9cb2-e42bacedde3b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.nbc345/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.nbc345/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BP_MyMovingActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BP_MyMovingActor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BP_MyPawn.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/BP_MyRotatingActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BP_MyRotatingActor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/GM_Pawn.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Maps/Overview.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Maps/Showcase.umap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/BaseMaterial/M_base.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Barrel01_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Barrel01_2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Barrel01_3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Barrel01_4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Barrel01_5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Barrel01_6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Box01_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Box01_2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Box01_3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Box01_4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Cartonbox01_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Cartonbox01_2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Gray.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Hose01_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Hose01_2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Newspaper01_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Newspaper01_2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Rack01_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_Tarp01_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_TrafficBarrel01_1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/MI_WaterTank01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Materials/Mi_Tarp01_2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Barrel02.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Barrel04.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Box01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Box02.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Box03.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonBox01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonBox02.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonBox03.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage02.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage03.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage04.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage05.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage06.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage07.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage08.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_CartonGarbage09.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Hose01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Newspaper01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Newspaper02.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Newspaper03.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Pallet01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Rack01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Rack02.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Tarp01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_Tarp02.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_TrafficBarrel01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Meshes/SM_WaterTank01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/BB_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/BG_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/BW_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/B_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/TC_HDR01.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/TC_HDR02.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/T_Dirt_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/T_MASK1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/T_MASK2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/BaseTextures/T_gradient_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Barrel01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Barrel01_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Barrel01_SRM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Box01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Box01_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Box01_SRM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Cartonbox01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Cartonbox01_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Cartonbox01_SRM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Hose_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Hose_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Hose_SRM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Newspaper01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Newspaper01_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Newspaper01_SRM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Rack_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Rack_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Rack_SRM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Tarp01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Tarp01_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Tarp01_SRM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Tarp02_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_Tarp02_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_TrafficBarrel01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_TrafficBarrel01_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_TrafficBarrel01_SRM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_WaterTank01_D.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_WaterTank01_N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/IndustryPropsPack6/Textures/T_WaterTank01_SRM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Inputs/IA_Look.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Inputs/IA_Move.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Inputs/IMC_Default.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/MainLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MainLevel.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MyMovingActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MyMovingActor.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MyRotatingActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MyRotatingActor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/nbc345/Private/MyPawn.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/nbc345/Private/SpartaCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/nbc345/Private/MyPawn.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/nbc345/Private/SpartaCharacter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/nbc345/nbc345.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/nbc345/nbc345.Build.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +153,31 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/MyPawn.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/MyPawn.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://4" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE_5.7/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../UE_5.7/Engine/Source/Runtime/Engine/Private/Actor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/BaseItem.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/BigCoinItem.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/CoinItem.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/HealingItem.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/ItemInterface.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/MineItem.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/SmallCoinItem.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/SpartaGameInstance.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/SpartaGameMode.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/SpartaGameState.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Private/SpawnVolume.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/BaseItem.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/BigCoinItem.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/CoinItem.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/HealingItem.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/ItemInterface.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/MineItem.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/SmallCoinItem.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/SpartaGameInstance.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/SpartaGameMode.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/SpartaGameState.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/nbc345/Public/SpawnVolume.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -66,28 +192,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ Project.nbc345.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cidr.known.project.marker": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.CppConfiguration",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ Project.nbc345.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.CppConfiguration&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ Project.nbc345">
     <configuration name="UE5" type="CppProject" factoryName="C++ Project">
       <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj" />
@@ -202,7 +328,17 @@
       <option name="presentableId" value="Default" />
       <updated>1781695162213</updated>
       <workItem from="1781695184649" duration="3102000" />
-      <workItem from="1781744399072" duration="4188000" />
+      <workItem from="1781744399072" duration="4396000" />
+      <workItem from="1781750902362" duration="4767000" />
+      <workItem from="1781768056846" duration="5280000" />
+      <workItem from="1781779397719" duration="2737000" />
+      <workItem from="1781838579904" duration="3947000" />
+      <workItem from="1781850205331" duration="10852000" />
+      <workItem from="1781935006909" duration="9991000" />
+      <workItem from="1781954026376" duration="1022000" />
+      <workItem from="1782016970147" duration="2667000" />
+      <workItem from="1782031573522" duration="10915000" />
+      <workItem from="1782086793000" duration="21195000" />
     </task>
     <servers />
   </component>
